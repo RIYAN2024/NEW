@@ -1,0 +1,917 @@
+
+@media (min-width:1200px) {
+
+.support-list h1 {
+    padding: 0px 100px 20px 100px;
+}
+.section_header h2 {
+    font-size: 50px;
+    line-height: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+}
+
+
+
+@media (min-width:992px) and (max-width:1199px) {
+.main-menu {
+    max-height: 70px;
+    gap: 0px;
+}
+
+.main-menu .logo {
+    padding: 12px 16px;
+}
+.main-menu .logo img{
+width:50px;
+}
+.main-menu .menu ul {
+    gap: 0px;
+}
+.main-menu .menu ul li a {
+    font-size: 14px;
+    line-height: 1;
+    padding: 6px 10px;
+}
+.main-menu .button {
+    gap: 3px;
+    padding: 0px;
+}
+.main-menu .button button img {
+    width: 20px;
+}
+.main-menu .button button {
+    height: 0px;
+    width: 0px;
+}
+.main-menu .button {
+    gap:30px;
+    padding-right:40px;
+    margin-bottom: 20px;
+}
+.content .banner h1 {
+    font-size: 24px;
+    line-height: 2;
+    padding-bottom: 5px;
+}
+.content .banner p {
+    font-size: 14px;
+    line-height: 1.5;
+}
+#banner .overlay {
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+.content .banner p {
+    padding-bottom: 18px;
+}
+.content .banner button {
+    padding: 10px 16px;
+    font-size: 14px;
+}    
+    
+.cart-item {
+    grid-template-columns: repeat(2,1fr);
+}
+
+.support-list h1 {
+    padding: 0px 100px 20px 100px;
+}
+.test {
+    grid-template-columns: repeat(2,1fr);
+    gap: 30px;
+}
+.cart-button {
+    margin-bottom: 20px;
+}
+.section_header h2 {
+    font-size: 40px;
+    line-height: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+}
+
+
+
+@media (min-width:768px) and (max-width:991px) {
+.main-menu {
+    max-height: 50px;
+    gap: 0px;
+}
+
+.main-menu .logo {
+    padding: 8px 10px;
+}
+.main-menu .logo img{
+width:30px;
+}
+.main-menu .menu ul {
+    gap: 0px;
+}
+.main-menu .menu ul li a {
+    font-size: 10px;
+    line-height: 1;
+    padding: 2px 6px;
+}
+.main-menu .button {
+    gap: 3px;
+    padding: 0px;
+}
+.main-menu .button button img {
+    width: 15px;
+}
+.main-menu .button button {
+    height: 0px;
+    width: 0px;
+}
+.main-menu .button {
+    gap:25px;
+    padding-right:30px;
+    margin-bottom: 20px;
+}
+.content .banner h1 {
+    font-size: 20px;
+    line-height: 2;
+    padding-bottom: 5px;
+}
+.content .banner p {
+    font-size: 12px;
+    line-height: 1.5;
+}
+#banner .overlay {
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+.content .banner p {
+    padding-bottom: 18px;
+}
+.content .banner button {
+    padding: 10px 16px;
+    font-size: 14px;
+}
+
+.cart-item {
+    grid-template-columns: repeat(2,1fr);
+    }
+    .cart .cart-menu ul li button {
+    font-size: 14px;
+}
+.cart .cart-menu ul {
+    gap: 8px;
+}
+.cart .header h1 {
+    font-size: 40px;
+}
+.cart-item .item {
+    width: 330px;
+}
+.cart-item .item .price {
+    gap:0px;
+}
+
+#banner-4 .service .header h1 {
+    font-size: 26px;
+    padding-bottom: 12px;
+}
+.service-menu .list h1 {
+    font-size: 22px;
+}
+.service-menu .list p {
+    font-size: 18px;
+}
+.service-menu .list {
+    align-items: start;
+    gap: 8px;
+}
+#banner-4 {
+    padding: 20px 0px;
+}
+
+.support-list h1 {
+    padding: 0px;
+}
+.support-list p {
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.test {
+    grid-template-columns: repeat(2,1fr);
+    gap: 30px;
+}
+.testimonial {
+   
+    height: 370px;
+    width: 300px;
+}
+.testimonial-body p {
+    padding-top: 10px;
+    font-size: 15px;
+}
+.container {
+    padding: 0 30px;
+}
+.header h1 {
+    font-size: 60px;
+}
+
+
+.our-location .map iframe {
+    height: 300px;
+    width: 300px;
+}
+.our-location {
+    display: flex;
+}
+.our-location {
+    align-items: start;
+   
+}
+.our-location {
+    padding: 0 20px;
+    gap: 50px;
+}
+.our-location .map{
+    width: 300px;
+    height: 330px;
+}
+.our-location .location h1 {
+    line-height: 1.4;
+    font-size: 24px;
+    text-align: center;
+}
+.our-location .location p {
+    font-size: 12px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.our-location .location button {
+    height: 50px;
+    width: 200px;
+    font-size: 12px;
+    margin-bottom: 40px;
+}
+#banner-8 {
+    padding: 50px 0;
+}
+.list {
+   
+    flex-wrap: wrap;
+}
+#banner-2 .header h1 {
+    font-size: 30px;
+}
+#banner-2 .header p {
+    font-size: 14px;
+}
+#banner-2 {
+    padding: 100px 0;
+}
+.cart-button {
+    margin-bottom: 20px;
+}
+.testimonial_content {
+    grid-template-columns: repeat(2, 1fr);
+}
+.section_header h2 {
+    font-size: 40px;
+    line-height: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+#testimonial {
+    padding-top: 100px;
+
+}
+
+}
+
+
+
+
+
+@media (min-width:576px) and (max-width:767px) {
+.main-menu {
+    max-height: 50px;
+    gap: 0px;
+}
+
+.main-menu .logo {
+    padding: 8px 10px;
+}
+.main-menu .logo img{
+width:30px;
+}
+.main-menu .menu ul {
+    gap: 0px;
+}
+.main-menu .menu ul li a {
+    font-size: 8px;
+    line-height: 1;
+    padding: 2px 6px;
+}
+.main-menu .button {
+    gap: 3px;
+    padding: 0px;
+}
+.main-menu .button button img {
+    width: 15px;
+}
+.main-menu .button button {
+    height: 0px;
+    width: 0px;
+}
+.main-menu .button {
+    gap:25px;
+    padding-right:30px;
+    margin-bottom: 20px;
+}
+
+
+.cart .header h1 {
+    font-size: 30px;
+
+}
+
+.content .banner h1 {
+    font-size: 12px;
+    line-height: 1.5;
+    padding-bottom: 5px;
+}
+.content .banner p {
+    font-size: 8px;
+    line-height: 1;
+}
+#banner .overlay {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.content .banner p {
+    padding-bottom: 18px;
+}
+.content .banner button {
+    padding: 6px 10px;
+    font-size: 6px;
+}
+
+.cart .cart-menu ul {
+    gap: 5px;
+}
+.cart .cart-menu ul li button {
+    padding: 6px 10px;
+    font-size: 12px;
+}
+.cart-item {
+    grid-template-columns: repeat(1,1fr);
+}
+.cart-button {
+    margin-top: 30px;
+}
+.button-w {
+    padding: 14px 28px;
+    font-size: 12px;
+}
+
+#banner-4 .service .header h1 {
+    font-size: 24px;
+    padding-bottom: 10px;
+}
+.service-menu .list h1 {
+    font-size: 20px;
+}
+.service-menu .list p {
+    font-size: 16px;
+}
+.service-menu .list {
+    align-items: start;
+    gap: 6px;
+}
+#banner-4 {
+    padding: 20px 0px;
+}
+
+.support-list h1 {
+    line-height: 50px;
+    font-size: 30px;
+    padding: 0px;
+}
+.support-list p {
+    font-size: 16px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+.list {
+    padding-bottom: 50px;
+}
+.test {
+    grid-template-columns: repeat(2,1fr);
+}
+.testimonial {
+    height: 200px;
+    width: 200px;
+    align-items: center;
+}
+.nav-header {
+    padding: 10px;
+}
+.nav-header img {
+    width: 50px;
+}
+.testimonial-body {
+    padding: 5px;
+}
+.testimonial-head {
+    padding: 5px  5px 0px 10px;
+}
+.testimonial-head h3 {
+    font-size: 10px;
+}
+.testimonial-head p {
+    font-size: 8px;
+}
+.testimonial-body .qout {
+    height: 8px;
+    width: 10px;
+}
+.testimonial-body p {
+    padding-top: 20px;
+    font-size: 8px;
+}
+.testimonial-body .qout::after {
+    bottom: -6px;
+    height: 1px;
+    width: 150px;
+    left: 20px;
+}
+#banner-6 .header h1 {
+    font-size: 36px;
+    
+}
+.review {
+    padding: 40px 0px;
+}
+.review-profile input[type=email] {
+   
+    height: 30px;
+    width: 160px;
+    font-size: 12px;
+
+}
+.review-profile button {
+    height: 30px;
+    width: 120px;
+    font-size: 12px;
+}
+.review-profile {
+    padding-top: 20px;
+}
+.header h1 {
+    font-size: 30px;
+    line-height: 50px;
+}
+
+.our-location .map iframe {
+    height: 250px;
+    width: 200px;
+}
+.our-location {
+    display: flex;
+}
+.our-location {
+    align-items: start;
+   
+}
+.our-location {
+    
+    gap: 75px;
+}
+.our-location .location h1 {
+    line-height: 1.4;
+    font-size: 24px;
+    text-align: center;
+}
+.our-location .location p {
+    font-size: 12px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.our-location .location button {
+    height: 50px;
+    width: 200px;
+    font-size: 12px;
+    margin-bottom: 40px;
+}
+#banner-8 {
+    padding: 50px 0;
+}
+.list {
+   
+    flex-wrap: wrap;
+}
+.info {
+    display: block;
+    padding-top: 30px;
+}
+.info .content-img {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+#banner-2 .header h1 {
+    font-size: 30px;
+}#banner-2 .header p {
+    font-size: 12px;
+}
+.info .info-content p {
+    font-size: 10px;
+    line-height: 20px;
+}
+#banner-2 {
+    padding: 50px 0;
+}
+.support-button {
+    padding-bottom: 60px;
+}
+.testimonial_content {
+    padding-top: 70px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 30px;
+}
+.section_header h2 {
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+#testimonial {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.testimonial_content .testimonial_item .user_info .quote::after {
+    width: 400px;
+   
+}
+
+}
+
+
+
+
+
+
+
+@media(max-width:575px){
+.main-menu {
+    max-height: 50px;
+    gap: 0px;
+}
+
+.main-menu .logo {
+    padding: 8px 16px;
+}
+.main-menu .logo img{
+width:30px;
+}
+.main-menu .menu ul {
+    gap: 0px;
+}
+.main-menu .menu ul li a {
+    font-size: 5px;
+    line-height: 1;
+    padding: 6px 6px;
+    margin-bottom: 6px;
+}
+.main-menu .button {
+    gap: 3px;
+    padding: 0px;
+}
+.main-menu .button button img {
+    width: 15px;
+}
+.main-menu .button button {
+    height: 0px;
+    width: 0px;
+}
+.main-menu .button {
+    gap:25px;
+    padding-right:45px;
+    margin-bottom: 20px;
+}
+
+.content .banner h1 {
+    font-size: 12px;
+    line-height: 1;
+    padding-bottom: 5px;
+}
+.content .banner p {
+    font-size: 8px;
+    line-height: 1;
+}
+#banner .overlay {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.content .banner p {
+    padding-bottom: 18px;
+}
+.content .banner button {
+    padding: 6px 10px;
+    font-size: 6px;
+}
+.container {
+    justify-items: center;
+    padding: 0px 20px;
+}
+
+#banner-2 .header h1 {
+    font-size: 8px;
+    line-height: 1.5;
+    padding-bottom: 2px;
+}
+#banner-2 .header p {
+    font-size: 4px;
+    line-height: 1;
+
+}
+#banner-2 {
+    padding: 10px 0;
+}
+.info {
+    display: block;
+    padding-top: 10px;
+    gap: 0px;
+}
+.info .info-content {
+    width: 300px;
+    padding: 0 20px;
+}
+.info .content-img {
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.info .info-content p {
+    line-height: 8px;
+    font-size: 6px;
+}
+
+    .cart .header h1 {
+    font-size: 12px;
+    padding-bottom: 0px;
+    }
+    .cart .cart-menu {
+    padding-bottom: 30px;
+}
+.cart .cart-menu ul {
+    gap: 5px;
+}
+.cart .cart-menu ul li button {
+    padding: 6px 7px;
+    font-size: 6px;
+}
+.cart .cart-menu ul li button {
+    line-height: 0px;
+
+}
+.cart-item {
+    grid-template-columns: repeat(1,1fr);
+}
+.cart-item .item {
+    width: 250px;
+}
+.cart-item .item h3 {
+    line-height: 16px;
+    font-size: 20px;
+    margin-top: 0px;
+}
+.cart-item .item p {
+    line-height: 20px;
+    font-size: 12px;
+    margin: 10px 0px;
+}
+.cart-item .item .price {
+    gap: 0px;
+}
+.cart-item .item .price span {
+    font-size: 16px;
+    line-height: 14px;
+}
+.cart-item .item .price button {
+    height: 20px;
+    width: 20px;
+}
+.cart-button {
+    margin-top: 30px;
+}
+.button-w {
+    padding: 10px 24px;
+    font-size: 10px;
+}
+
+
+
+#banner-4 .service .header h1 {
+    font-size: 12px;
+    padding-bottom: 5px;
+}
+.service-menu {
+    gap: 70px;
+    padding-right: 30px;
+}
+.service-menu .list h1 {
+    font-size: 6px;
+}
+.service-menu .list p {
+    font-size: 6px;
+}
+.service-menu .list {
+    width: 0px;
+}
+.service-menu .list {
+    align-items: start;
+    gap: 6px;
+}
+#banner-4 {
+    padding: 10px 0px;
+}
+
+
+.support-list h1 {
+    line-height: 30px;
+    font-size: 18px;
+    padding: 0px;
+}
+.support-list p {
+    line-height: 8px;
+    font-size: 6px;
+    padding: 0px 10px;
+}
+#banner-6 {
+    padding: 50px 0;
+}
+#banner-6 .header h1 {
+    font-size: 16px;
+}
+
+
+.test {
+    grid-template-columns: repeat(1,1fr);
+}
+.testimonial {
+    height: 200px;
+    width: 200px;
+    align-items: center;
+}
+.nav-header {
+    padding: 10px;
+}
+.nav-header img {
+    width: 50px;
+}
+.testimonial-body {
+    padding: 5px;
+}
+.testimonial-head {
+    padding: 5px  5px 0px 10px;
+}
+.testimonial-head h3 {
+    font-size: 10px;
+}
+.testimonial-head p {
+    font-size: 8px;
+}
+.testimonial-body .qout {
+    height: 8px;
+    width: 10px;
+}
+.testimonial-body p {
+    padding-top: 20px;
+    font-size: 8px;
+}
+.testimonial-body .qout::after {
+    bottom: -6px;
+    height: 1px;
+    width: 150px;
+    left: 20px;
+}
+.header h1 {
+    font-size: 20px;
+    line-height: 18px;
+}
+#banner-7 {
+    padding: 0px 40px;
+}
+.review {
+    padding: 40px 0px;
+}
+.review-profile input[type=email] {
+   
+    height: 20px;
+    width: 100px;
+    font-size: 10px;
+
+}
+.review-profile button {
+    height: 20px;
+    width: 100px;
+    font-size: 10px;
+}
+.review-profile {
+    padding-top: 20px;
+}
+
+
+.our-location .map iframe {
+    height: 200px;
+    width: 200px;
+    align-items: center;
+}
+.our-location {
+    display: block;
+    text-align: center;
+}
+
+.our-location .map{
+    width: 200px;
+    height: 310px;
+    margin: 0 auto;
+}
+.our-location .location h1 {
+    line-height: 1.4;
+    font-size: 24px;
+    text-align: center;
+}
+.our-location .location p {
+    font-size: 10px;
+    margin-bottom: 40px;
+    text-align: center;
+    padding: 0 5px;
+}
+.our-location .location button {
+    height: 30px;
+    width: 130px;
+    font-size: 8px;
+    margin-bottom: 40px;
+}
+
+#banner-8 {
+    padding: 50px 0;
+}
+.list {
+    padding-bottom: 20px;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+footer {
+    padding: 10px 0;
+}
+.list .footer-list h3 {
+    font-size: 14px;
+}
+.list .footer-list ul {
+    gap: 6px;
+    font-size: 10px;
+}
+.list .footer-list img {
+    width: 110px;
+}
+.footer-end {
+    padding: 10px 0;
+    font-size: 10px;
+    gap: 80px;
+  
+}
+.footer-end img {
+    height: 15px;
+}
+.footer-end p {
+    font-size: 8px;
+}
+
+.support-button {
+    padding-bottom: 10px;
+}
+
+.testimonial_content {
+    grid-template-columns: repeat(1, 1fr);
+}
+#testimonial {
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.section_header h2 {
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 700;
+}
+.testimonial_content {
+    padding-top: 30px;
+    
+}
+}
